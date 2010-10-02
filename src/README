@@ -1,0 +1,24 @@
+	giRecovery - Graphical Interface for iRecovery
+---------------------------------------------------------------
+
+ I wanted to rewrite giRecovery since the code was so
+ messed up and all that shit. The GUI wasn't really
+ clean either so i decided to do that, and here it is.
+
+	Information about giRecovery
+---------------------------------------------------------------
+  
+ ATUHOR: Fallensn0w
+ 
+ DATE:   2010-08-09
+ 
+ STABLE VERSION: 2010-08-16
+		 
+ GOAL :	 Remaking giRecovery and make it more cleaner to use.
+		 And improving other stuff like speed.
+		 
+ BUGS:   When starting, i had to make the output window visible.
+		 That is because the program is initializing everything.
+		 But its so shortly that you dont mind it. :)
+
+--> http://fallensn0w.host22.com <--

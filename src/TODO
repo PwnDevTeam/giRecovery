@@ -1,0 +1,15 @@
+
+ Current Todos for giRecovery:
+	
+	Advanced stuff:
+ 
+	 - Instead of using a iRecovery encrypted. Why not just
+	   implement iRecovery into giRecovery. This can be done by
+	   using MobileDevice.vb by @Fallensn0w. But the file upload
+	   isnt supported and exploit so we have to port that aswell.
+	  
+	 - Implement iRecovery Shell. This could be advanced to do
+	   or just really easy. It depends on the developers way.
+	   We need to gather the information somehow that iBoot/iBSS
+	   dumps, i think the developer could use bulk or just check
+	   the original iRecovery src code and see how it's done.
